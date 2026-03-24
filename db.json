@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "자바스크립트 공부하기",
+      "completed": true,
+      "createdAt": "2026-03-24T10:44:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "리액트 공부하기",
+      "completed": false,
+      "createdAt": "2026-03-24T10:44:00.000Z"
+    }
+  ]
+}
